@@ -26,7 +26,7 @@ This guide will help you set up the repository on your local machine. Please fol
 ### Cloning the repository
 Use the following command to clone the repository:
 ```sh
-git clone https://github.com/ioanmo226/chatgpt-web-application
+git clone https://github.com/ioanmo226/chatgpt-react-application
 ```
 
 ### Backend Setup
